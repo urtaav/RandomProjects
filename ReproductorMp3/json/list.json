@@ -1,0 +1,30 @@
+{
+	"songs":
+	[
+		{
+			"id":0,
+			"nombre":"Akon",
+			"artist":"Alan Walker",
+			"song":"music/Akon.mp3",
+			"image":"img/caratula1.jpg"
+
+		},
+		{
+			"id":1,
+			"nombre":"Fade",
+			"artist":"Alan Walker",
+			"song":"music/Fade.mp3",
+			"image":"img/caratula2.jpg"
+
+		},
+		{
+			"id":2,
+			"nombre":"Look What You Made Me Do",
+			"artist":"Nightcore",
+			"song":"music/Nightcore.mp3",
+			"image":"img/caratula3.jpg"
+
+		}
+
+	]
+}
